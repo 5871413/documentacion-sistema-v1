@@ -41,4 +41,4 @@ def verificar_stock(cantidad):
 - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
 - [Repositorio Oficial en GitHub](https://github.com/gaps3600/documentacion-sistema-v1-)
 
-(ejemplo: [](https://erick7096.github.io/documentacion-sistema-v1/)).
+(ejemplo: [](https://5871413.github.io/documentacion-sistema-v1/)).
